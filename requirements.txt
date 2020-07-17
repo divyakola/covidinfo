@@ -1,0 +1,4 @@
+if we want to get the coivd cases data in that case we need to required covid module.
+
+	pip install covid
+
